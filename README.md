@@ -7,8 +7,8 @@ Some of my objectives :man: :computer:
 * Make peoples life easier if possible
 * Become a good, friendly professional
 
-<a href="url">https://drive.google.com/file/d/1ulR21dUbGLPXeQma03YA47Q1NGVKWxOf/view?usp=drive_link
-</a>.
+
+<a href="https://drive.google.com/file/d/1ulR21dUbGLPXeQma03YA47Q1NGVKWxOf/view?usp=drive_link">My resume</a>.
 
 <!--
 **lucas96will/lucas96will** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
