@@ -1,7 +1,7 @@
-### Hi there :metal:
+# Hi there :metal:
 My name is Lucas Williams, i'm an engineering software student at the University of Buenos Aires :orange_book:
 
-# Some of my objectives :man: 
+## Some of my objectives :man: 
 * Develop my skills :computer:
 * Work on exciting projects :fire:
 * Make peoples life easier if possible :raised_hands:
