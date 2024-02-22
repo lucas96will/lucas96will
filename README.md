@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :metal:
 My name is Lucas Williams, i am an engineering software student at the University of Buenos Aires. 
 
 <!--
