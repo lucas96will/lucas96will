@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Lucas Williams, i am an engineering software student at the University of Buenos Aires. 
 
 <!--
 **lucas96will/lucas96will** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
