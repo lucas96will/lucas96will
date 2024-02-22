@@ -1,11 +1,14 @@
 ### Hi there :metal:
 My name is Lucas Williams, i'm an engineering software student at the University of Buenos Aires :orange_book:
 
-Some of my objectives :man: :computer: are:
+Some of my objectives :man: :computer:
 * Develop my skills
 * Work on exciting projects
 * Make peoples life easier if possible
 * Become a good, friendly professional
+
+<a href="url">https://drive.google.com/file/d/1ulR21dUbGLPXeQma03YA47Q1NGVKWxOf/view?usp=drive_link
+</a>.
 
 <!--
 **lucas96will/lucas96will** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
