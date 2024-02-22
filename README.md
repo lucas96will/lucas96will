@@ -11,7 +11,7 @@ My name is Lucas Williams, i'm an engineering software student at the University
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/lucas96will/lucas96will/assets/49705053/06b3a56e-a125-48b5-a789-40ee71bc9995" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="(https://simpleicons.org/icons/cplusplus.svg)" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 
 
