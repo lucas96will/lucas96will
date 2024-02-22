@@ -7,6 +7,13 @@ My name is Lucas Williams, i'm an engineering software student at the University
 * Make peoples life easier if possible :raised_hands:
 * Become a good, friendly professional :muscle:
 
+### Programming languages i've ever used
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+
 
 <a href="https://drive.google.com/file/d/1ulR21dUbGLPXeQma03YA47Q1NGVKWxOf/view?usp=drive_link">My resume</a> :page_facing_up:
 
