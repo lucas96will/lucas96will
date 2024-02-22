@@ -9,6 +9,7 @@ Some of my objectives :man: :computer:
 
 
 <a href="https://drive.google.com/file/d/1ulR21dUbGLPXeQma03YA47Q1NGVKWxOf/view?usp=drive_link">My resume</a>.
+
 <a href="lucaswilliams0296@gmail.com">Contact me</a>.
 
 <!--
