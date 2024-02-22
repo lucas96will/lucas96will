@@ -25,8 +25,7 @@ My name is Lucas Williams, i'm an engineering software student at the University
 
 <a href="https://drive.google.com/file/d/1ulR21dUbGLPXeQma03YA47Q1NGVKWxOf/view?usp=drive_link">My resume</a> :page_facing_up:
 
-<a href="lucaswilliams0296@gmail.com">Contact me</a> 👍 :thumbsup:
-<form action=lucaswilliams0296@gmail.com>.
+<a href="mailto:lucaswilliams0296@gmail.com">Contact me</a> 👍 :thumbsup:
 <!--
 **lucas96will/lucas96will** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
