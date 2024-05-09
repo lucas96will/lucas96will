@@ -16,7 +16,7 @@ My name is Lucas Williams, i'm an engineering software student at the University
 <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 -->
 
-### Technologies i've used/using
+### Technologies i've been using lately
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://simpleicons.org/icons/jetpackcompose.svg" height="60" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://simpleicons.org/icons/go.svg" height="60" /></a>
 <!--
