@@ -21,7 +21,7 @@ My name is Lucas Williams, i'm an engineering software student at the University
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="60" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://simpleicons.org/icons/intellijidea.svg" height="60" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="60" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://simpleicons.org/icons/androidstudio.svg" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://simpleicons.org/icons/androidstudio.svg" height="60" /></a>
 
 
 <!--
