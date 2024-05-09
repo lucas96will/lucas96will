@@ -4,7 +4,6 @@ My name is Lucas Williams, i'm an engineering software student at the University
 ### Some of my objectives :man: 
 * Develop my skills :computer:
 * Work on exciting projects :fire:
-* Make peoples life easier if possible :raised_hands:
 * Become a good, friendly professional :muscle:
 
 ### Programming languages i've ever used
