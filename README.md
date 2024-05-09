@@ -7,8 +7,8 @@ My name is Lucas Williams, i'm an engineering software student at the University
 * Become a good, friendly professional :muscle:
 
 ### Programming languages i've ever used
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="60" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="60" /></a>
+<a href="https://www.python.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="60" /></a>
+<a href="https://www.java.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="60" /></a>
 <a href="https://cplusplus.com/" target="blank"><img align="center" src="https://simpleicons.org/icons/cplusplus.svg" height="60" /></a>
 <a href="https://kotlinlang.org/" target="blank"><img align="center" src="https://simpleicons.org/icons/kotlin.svg" height="60" /></a>
 <!--
